@@ -1,0 +1,12 @@
+[package]
+name = "rust-port-checker"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yoona"]
+description = "A small, dependency-free TCP port connectivity checker written in Rust"
+license = "MIT"
+readme = "README.md"
+keywords = ["rust", "tcp", "network", "cli", "port-checker"]
+categories = ["command-line-utilities", "network-programming"]
+
+[dependencies]
